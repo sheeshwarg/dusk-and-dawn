@@ -21,10 +21,23 @@ Beim **ersten Start** meldet macOS, dass die App nicht auf Schadsoftware geprüf
 
 **macOS 15 (Sequoia) und neuer**
 
-1. In der Meldung auf **„Fertig“** klicken (nicht „In den Papierkorb legen“).
-2. **Systemeinstellungen** öffnen → **Datenschutz & Sicherheit**.
-3. Ganz nach unten scrollen bis zum Abschnitt „Sicherheit“. Dort steht, dass „Dusk & Dawn“ blockiert wurde. Auf **„Dennoch öffnen“** klicken.
-4. In der nächsten Meldung noch einmal **„Dennoch öffnen“** wählen und mit Passwort oder Touch ID bestätigen.
+1. Die Meldung „„Dusk & Dawn“ nicht geöffnet“ erscheint. Auf **„Fertig“** klicken, **nicht** auf „In den Papierkorb legen“.
+
+   <img src="docs/installation-1-meldung.png" width="280" alt="Meldung „Dusk & Dawn“ nicht geöffnet">
+
+2. **Systemeinstellungen** öffnen → **Datenschutz & Sicherheit** → ganz nach unten scrollen bis zum Abschnitt **„Sicherheit“**. Dort steht „„Dusk & Dawn“ wurde blockiert, um deinen Mac zu schützen.“ Daneben auf **„Dennoch öffnen“** klicken.
+
+   <img src="docs/installation-2-einstellungen.png" width="560" alt="Systemeinstellungen, Datenschutz & Sicherheit, Abschnitt Sicherheit mit Knopf „Dennoch öffnen“">
+
+3. Es folgt die Frage „„Dusk & Dawn“ öffnen?“. Hier auf **„Dennoch öffnen“** klicken.
+
+   <img src="docs/installation-3-dennoch-oeffnen.png" width="280" alt="Meldung „Dusk & Dawn“ öffnen? mit Knopf „Dennoch öffnen“">
+
+4. Zum Schluss **Benutzername und Passwort** eines Administrators eingeben (meist dein eigenes Benutzerkonto) und auf **„OK“** klicken.
+
+   <img src="docs/installation-4-passwort.png" width="260" alt="Abfrage von Benutzername und Passwort">
+
+Danach startet Dusk & Dawn.
 
 **macOS 13 und 14**
 
