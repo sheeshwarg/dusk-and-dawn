@@ -37,4 +37,4 @@ echo "→ Ad-hoc-Signatur …"
 codesign --force --sign - "$APP"
 
 echo "✓ Fertig: $APP"
-open "$APP"
+[[ "${1:-}" == "--no-open" ]] || open "$APP"
