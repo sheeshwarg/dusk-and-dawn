@@ -26,7 +26,7 @@ cat > "$APP/Contents/Info.plist" <<EOF
   <key>CFBundleName</key><string>Dusk &amp; Dawn</string>
   <key>CFBundleDisplayName</key><string>Dusk &amp; Dawn</string>
   <key>CFBundlePackageType</key><string>APPL</string>
-  <key>CFBundleShortVersionString</key><string>1.1</string>
+  <key>CFBundleShortVersionString</key><string>1.2</string>
   <key>LSMinimumSystemVersion</key><string>13.0</string>
   <key>NSHighResolutionCapable</key><true/>
 </dict>
